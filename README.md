@@ -1,16 +1,4 @@
-# flutter_todo
+# flutter_todo_w2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter code for Workshop 2. Code notes:
+https://docs.google.com/document/d/1A7mp-92fM_fzk5mITY1o0j0p8FZHwI05/edit
